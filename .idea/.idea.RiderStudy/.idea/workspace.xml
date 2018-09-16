@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="576fda96-d3e3-4ba5-84d9-a436f368026a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1127797566">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="13" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1457" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1457" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="53" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="53" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RiderStudy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+              <folding>
+                <marker date="1536644845168" expanded="false" signature="6:68" ph="..." />
+                <marker date="1536644845168" expanded="true" signature="109:9291" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="311:984" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="999:1610" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="1473:1607" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="1613:1684" ph="///  ... " />
+                <marker date="1536644845168" expanded="true" signature="1728:2805" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="1737:1861" ph="/* 按钮的名称 btn_Button/btn_Image/btn_Graph...... ... */" />
+                <marker date="1536644845168" expanded="true" signature="2032:2134" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="2352:2802" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="2834:2905" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="2944:3064" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="3030:3061" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="3124:3258" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="3318:3716" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="3442:3605" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="3647:3711" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="3776:4846" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="4118:4451" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="4561:4843" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="4912:5275" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="5148:5270" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="5383:5663" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="5468:5542" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="5584:5658" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="5779:6418" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="5801:5991" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="6017:6118" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="6219:6271" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="6313:6357" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="6390:6413" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="6467:6572" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="6652:7703" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="6951:7115" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="7029:7094" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="7207:7415" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="7459:7698" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="7767:8716" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="7965:8145" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="8248:8290" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="8783:8961" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="8997:9289" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="9109:9286" ph="{...}" />
+                <marker date="1536644845168" expanded="true" signature="9194:9282" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/BundleUsage/BundleUsageMain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <marker date="1534727919000" expanded="false" signature="6:60" ph="..." />
+                <marker date="1534727919000" expanded="true" signature="62:226" ph="/// Demonstrated how to load UI package from assetbundle. The bundle can be build from the Window Menu-&gt;Build Fai ... " />
+                <marker date="1534727919000" expanded="true" signature="264:1406" ph="{...}" />
+                <marker date="1534727919000" expanded="true" signature="304:422" ph="{...}" />
+                <marker date="1534727919000" expanded="true" signature="452:1276" ph="{...}" />
+                <marker date="1534727919000" expanded="true" signature="729:1236" ph="{...}" />
+                <marker date="1534727919000" expanded="true" signature="797:902" ph="{...}" />
+                <marker date="1534727919000" expanded="true" signature="1315:1404" ph="{...}" />
+                <marker date="1534727919000" expanded="true" signature="1370:1401" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Gesture/GestureMain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="149" column="45" lean-forward="true" selection-start-line="149" selection-start-column="45" selection-end-line="149" selection-end-column="45" />
+              <folding>
+                <marker date="1536744699533" expanded="false" signature="6:34" ph="..." />
+                <marker date="1536744699533" expanded="true" signature="76:3588" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="134:254" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="269:1008" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="1011:1090" ph="/// 移动中触发的事件 ... " />
+                <marker date="1536744699533" expanded="false" signature="1130:1644" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="1310:1444" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="1471:1579" ph="{...}" />
+                <marker date="1536744699533" expanded="false" signature="1647:1728" ph="/// 离开时做一个惯性动画 ... " />
+                <marker date="1536744699533" expanded="false" signature="1767:2477" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="1923:2090" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="2097:2243" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="2246:2319" ph="/* 做一个TO数值过度从V-&gt;0经过0.3秒  ,设置目标对象是地球, 每帧调用 lambda表达式传入一个GTweener对象 ... */" />
+                <marker date="1536744699533" expanded="true" signature="2406:2472" ph="{...}" />
+                <marker date="1536744699533" expanded="false" signature="2480:2557" ph="/// 长按震动效果 ... " />
+                <marker date="1536744699533" expanded="false" signature="2592:2874" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="2731:2869" ph="{...}" />
+                <marker date="1536744699533" expanded="true" signature="2877:2952" ph="/// 缩放事件 ... " />
+                <marker date="1536744699533" expanded="true" signature="2988:3268" ph="{...}" />
+                <marker date="1536744699533" expanded="false" signature="3306:3458" ph="{...}" />
+                <marker date="1536744699533" expanded="false" signature="3497:3586" ph="{...}" />
+                <marker date="1536744699533" expanded="false" signature="3552:3583" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Gesture/LongPressGesture.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="29" />
+              <folding>
+                <marker date="1506061387000" expanded="false" signature="6:66" ph="..." />
+                <marker date="1506061387000" expanded="true" signature="86:3067" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="90:206" ph="/// 长按手势。当按下一定时间后(duration)，派发onAction，如果once为false，则间隔duration时间持续派发onAction，直到手指释放。 ... " />
+                <marker date="1506061387000" expanded="true" signature="255:3065" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="261:298" ph="///  ... " />
+                <marker date="1506061387000" expanded="true" signature="346:395" ph="/// 当手指按下时派发该事件。 ... " />
+                <marker date="1506061387000" expanded="true" signature="451:501" ph="/// 手指离开屏幕时派发该事件。 ... " />
+                <marker date="1506061387000" expanded="true" signature="555:628" ph="/// 当手指按下后一段时间后派发该事件。并且在手指离开前按一定周期派发该事件。 ... " />
+                <marker date="1506061387000" expanded="true" signature="686:739" ph="/// 第一次派发事件的触发时间。单位秒 ... " />
+                <marker date="1506061387000" expanded="true" signature="767:826" ph="/// 派发onAction事件的时间间隔。单位秒。 ... " />
+                <marker date="1506061387000" expanded="true" signature="855:944" ph="/// 如果为真，则onAction再一次按下释放过程只派发一次。如果为假，则每隔duration时间派发一次。 ... " />
+                <marker date="1506061387000" expanded="true" signature="968:1026" ph="/// 手指按住后，移动超出此半径范围则手势停止。 ... " />
+                <marker date="1506061387000" expanded="true" signature="1214:1504" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="1529:1571" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="1605:2166" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="1623:1866" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="1656:1760" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="1769:1861" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="1874:2162" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="1907:2017" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="2026:2124" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="2190:2251" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="2294:2496" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="2526:2913" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="2704:2759" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="2777:2888" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="2954:3062" ph="{...}" />
+                <marker date="1506061387000" expanded="true" signature="3008:3058" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sasaaa</find>
+      <find>SetPackageItemExtension</find>
+      <find>OnHide</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/Window2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/Window1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/Window.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/UIPackage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Gesture/GestureMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/503583B5-FE04-448F-AF1B-E91E4200016E/fc/611da3db/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Event/EventContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Bag/MyGLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Bag/BagMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/D91C9DD7-2E7E-43CA-ACAF-56C08F388C09/fe/97900c22/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/BundleUsage/BundleUsageMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Core/Stage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/UIObjectFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Extension/ExtensionMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Extension/MailItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/UIPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/41/0973efc5/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Tween/GTweener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/TurnCard/TurnCardMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Core/Text/CopyPastePatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/TurnCard/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Gesture/LongPressGesture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/DragDropManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Gesture/SwipeGesture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/VirtualList/VirtualListMain.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Extension/MailItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Extension/ExtensionMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/VirtualList/VirtualListMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Scripts/Event/EventContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/Window1.cs" />
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/Window2.cs" />
+        <option value="$PROJECT_DIR$/Assets/FairyGUI/Examples/Gesture/GestureMain.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="97" />
+    <option name="y" value="-8" />
+    <option name="width" value="1831" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="FairyGUI" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="FairyGUI" type="1045f7f1:UnityExplorerNode" />
+              <item name="Examples" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="FairyGUI" type="1045f7f1:UnityExplorerNode" />
+              <item name="Examples" type="1045f7f1:UnityExplorerNode" />
+              <item name="Gesture" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_unity_auto_save_notification" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="13812">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="13812" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="576fda96-d3e3-4ba5-84d9-a436f368026a" name="Default Changelist" comment="" />
+      <created>1536407771925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536407771925</updated>
+      <workItem from="1536407774973" duration="167000" />
+      <workItem from="1536407965779" duration="1846000" />
+      <workItem from="1536410178680" duration="167000" />
+      <workItem from="1536410654477" duration="123000" />
+      <workItem from="1536410807405" duration="10000" />
+      <workItem from="1536410848494" duration="17000" />
+      <workItem from="1536410904433" duration="36000" />
+      <workItem from="1536411086376" duration="134000" />
+      <workItem from="1536411485245" duration="166000" />
+      <workItem from="1536558677006" duration="4355000" />
+      <workItem from="1536563253180" duration="1669000" />
+      <workItem from="1536565441067" duration="1284000" />
+      <workItem from="1536566777061" duration="5383000" />
+      <workItem from="1536630672506" duration="17055000" />
+      <workItem from="1536716121479" duration="11319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43731000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="97" y="-8" width="1831" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" sideWeight="0.5005325" side_tool="true" weight="0.16297558" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32961783" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49912128" weight="0.32961783" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49912128" weight="0.32961783" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50175744" side_tool="true" weight="0.32961783" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49824253" weight="0.3280255" />
+      <window_info anchor="bottom" id="运行" order="16" />
+      <window_info anchor="bottom" id="调试" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32952547" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="6" sideWeight="0.49946752" visible="true" weight="0.16581488" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/D91C9DD7-2E7E-43CA-ACAF-56C08F388C09/fe/97900c22/Color.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="93" column="69" lean-forward="true" selection-start-line="93" selection-start-column="69" selection-end-line="93" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/ReadMe - 3.0.0.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="1304" column="20" selection-start-line="1304" selection-start-column="20" selection-end-line="1304" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Cooldown/CooldownMain.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Guide/GuideMain.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/503583B5-FE04-448F-AF1B-E91E4200016E/fc/611da3db/Dictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="466" column="6" selection-start-line="466" selection-start-column="6" selection-end-line="466" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/UIPanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VirtualListMain.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/41/0973efc5/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/UIPackage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="248" column="40" selection-start-line="248" selection-start-column="40" selection-end-line="248" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Extension/ExtensionMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="1478" column="12" selection-start-line="1478" selection-start-column="12" selection-end-line="1478" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/UIObjectFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/TurnCard/TurnCardMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Extension/MailItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Bag/BagMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/TurnCard/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Bag/MyGLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/DragDropManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="77" column="41" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/VirtualList/VirtualListMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Core/Text/CopyPastePatch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Core/Stage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="638" column="25" selection-start-line="638" selection-start-column="25" selection-end-line="638" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Event/EventContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/Window.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="466" column="12" selection-start-line="466" selection-start-column="12" selection-end-line="466" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/UI/GObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="394" column="42" selection-start-line="394" selection-start-column="42" selection-end-line="394" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/Window2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="43" column="94" lean-forward="true" selection-start-line="43" selection-start-column="94" selection-end-line="43" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/Window1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/BundleUsage/BundleUsageMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <marker date="1534727919000" expanded="false" signature="6:60" ph="..." />
+            <marker date="1534727919000" expanded="true" signature="62:226" ph="/// Demonstrated how to load UI package from assetbundle. The bundle can be build from the Window Menu-&gt;Build Fai ... " />
+            <marker date="1534727919000" expanded="true" signature="264:1406" ph="{...}" />
+            <marker date="1534727919000" expanded="true" signature="304:422" ph="{...}" />
+            <marker date="1534727919000" expanded="true" signature="452:1276" ph="{...}" />
+            <marker date="1534727919000" expanded="true" signature="729:1236" ph="{...}" />
+            <marker date="1534727919000" expanded="true" signature="797:902" ph="{...}" />
+            <marker date="1534727919000" expanded="true" signature="1315:1404" ph="{...}" />
+            <marker date="1534727919000" expanded="true" signature="1370:1401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Basics/BasicsMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+          <folding>
+            <marker date="1536644845168" expanded="false" signature="6:68" ph="..." />
+            <marker date="1536644845168" expanded="true" signature="109:9291" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="311:984" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="999:1610" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="1473:1607" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="1613:1684" ph="///  ... " />
+            <marker date="1536644845168" expanded="true" signature="1728:2805" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="1737:1861" ph="/* 按钮的名称 btn_Button/btn_Image/btn_Graph...... ... */" />
+            <marker date="1536644845168" expanded="true" signature="2032:2134" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="2352:2802" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="2834:2905" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="2944:3064" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="3030:3061" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="3124:3258" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="3318:3716" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="3442:3605" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="3647:3711" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="3776:4846" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="4118:4451" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="4561:4843" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="4912:5275" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="5148:5270" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="5383:5663" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="5468:5542" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="5584:5658" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="5779:6418" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="5801:5991" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="6017:6118" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="6219:6271" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="6313:6357" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="6390:6413" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="6467:6572" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="6652:7703" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="6951:7115" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="7029:7094" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="7207:7415" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="7459:7698" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="7767:8716" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="7965:8145" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="8248:8290" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="8783:8961" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="8997:9289" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="9109:9286" ph="{...}" />
+            <marker date="1536644845168" expanded="true" signature="9194:9282" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Gesture/SwipeGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+          <folding>
+            <marker date="1520812980000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1520812980000" expanded="true" signature="86:5111" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="90:271" ph="/// 滑动手势。你可以通过onBegin+onMove+onEnd关心整个滑动过程，也可以只使用onAction关注最后的滑动结果。滑动结果包括方向和加速度，可以从position和velocity获得。 ... " />
+            <marker date="1520812980000" expanded="true" signature="316:5109" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="322:359" ph="///  ... " />
+            <marker date="1520812980000" expanded="true" signature="407:458" ph="/// 当手指开始扫动时派发该事件。 ... " />
+            <marker date="1520812980000" expanded="true" signature="514:564" ph="/// 手指离开屏幕时派发该事件。 ... " />
+            <marker date="1520812980000" expanded="true" signature="618:667" ph="/// 手指在滑动时派发该事件。 ... " />
+            <marker date="1520812980000" expanded="true" signature="722:796" ph="/// 当手指从按下到离开经过的距离大于actionDistance时派发该事件。 ... " />
+            <marker date="1520812980000" expanded="true" signature="854:900" ph="/// 手指离开时的加速度 ... " />
+            <marker date="1520812980000" expanded="true" signature="931:1042" ph="/// 你可以在onBegin事件中设置这个值，那个后续将根据手指移动的距离修改这个值。如果不设置，那position初始为(0,0)，反映手指扫过的距离。 ... " />
+            <marker date="1520812980000" expanded="true" signature="1073:1116" ph="/// 移动的变化值 ... " />
+            <marker date="1520812980000" expanded="true" signature="1144:1284" ph="/// The min distance to fire onAction event ... " />
+            <marker date="1520812980000" expanded="true" signature="1317:1373" ph="/// 是否把变化量强制为整数。默认true。 ... " />
+            <marker date="1520812980000" expanded="true" signature="1576:1893" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="1918:1960" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="1994:2747" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2012:2341" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2045:2195" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2204:2336" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2349:2743" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2429:2588" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2597:2738" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2790:3275" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2828:2965" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="2876:2948" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="3317:4331" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="3532:3665" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="4013:4305" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="4372:5106" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="4601:4683" ph="{...}" />
+            <marker date="1520812980000" expanded="true" signature="4864:4958" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Tween/GTweener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <marker date="1535604461000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1535604461000" expanded="true" signature="52:14267" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="56:91" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="134:205" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="265:300" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="333:693" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="339:413" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="456:530" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="574:648" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="696:731" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="754:14265" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="1544:1685" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="1689:1787" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="1827:1870" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="1874:1911" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="1932:1966" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="1970:2068" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="2111:2157" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="2161:2198" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="2222:2259" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="2263:2361" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="2406:2454" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="2458:2556" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="2598:2644" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="2648:2746" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="2791:2839" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="2843:2941" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="3000:3062" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="3066:3199" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="3258:3320" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="3324:3361" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="3381:3416" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="3420:3518" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="3562:3609" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="3613:3711" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="3766:3825" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="3829:3927" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="3969:4015" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="4019:4117" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="4159:4238" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="4242:4378" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="4444:4513" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="4517:4554" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="4577:4612" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="4616:4714" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="4758:4804" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="4808:4845" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="4870:4907" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="4911:5012" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="5064:5113" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="5117:5218" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="5269:5317" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="5321:5422" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="5476:5527" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="5531:5632" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="5685:5735" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="5739:5840" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="5892:5941" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="5945:6046" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6101:6153" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="6157:6255" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6307:6353" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="6357:6394" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6425:6464" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="6468:6505" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6534:6571" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="6575:6612" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6638:6672" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="6676:6713" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6744:6783" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="6787:6824" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6854:6897" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="6901:6938" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="6962:7001" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="7005:7042" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="7069:7108" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="7112:7211" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="7252:7297" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="7301:7372" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="7403:7586" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="7490:7568" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="7590:7665" ph="///  ... " />
+            <marker date="1535604461000" expanded="true" signature="7707:8078" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="7757:8054" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="7783:8020" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="8143:8259" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="8328:8450" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="8519:8641" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="8710:8832" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="8897:9021" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="9088:9204" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="9280:9439" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="9464:9835" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="9861:10025" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10052:10509" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10102:10172" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10415:10505" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10438:10500" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10526:12570" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10584:10668" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10687:10818" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10928:10976" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="10998:11280" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="11174:11275" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="11309:11355" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="11572:11757" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="11786:12134" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="11812:12083" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="12142:12419" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="12188:12414" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="12598:13118" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="12641:12942" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="12654:12826" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="12850:12937" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="12950:13114" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13147:13678" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13190:13497" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13203:13380" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13404:13492" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13505:13674" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13709:14262" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13752:14071" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13765:13952" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="13976:14066" ph="{...}" />
+            <marker date="1535604461000" expanded="true" signature="14079:14258" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Scripts/Gesture/LongPressGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <marker date="1506061387000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1506061387000" expanded="true" signature="86:3067" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="90:206" ph="/// 长按手势。当按下一定时间后(duration)，派发onAction，如果once为false，则间隔duration时间持续派发onAction，直到手指释放。 ... " />
+            <marker date="1506061387000" expanded="true" signature="255:3065" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="261:298" ph="///  ... " />
+            <marker date="1506061387000" expanded="true" signature="346:395" ph="/// 当手指按下时派发该事件。 ... " />
+            <marker date="1506061387000" expanded="true" signature="451:501" ph="/// 手指离开屏幕时派发该事件。 ... " />
+            <marker date="1506061387000" expanded="true" signature="555:628" ph="/// 当手指按下后一段时间后派发该事件。并且在手指离开前按一定周期派发该事件。 ... " />
+            <marker date="1506061387000" expanded="true" signature="686:739" ph="/// 第一次派发事件的触发时间。单位秒 ... " />
+            <marker date="1506061387000" expanded="true" signature="767:826" ph="/// 派发onAction事件的时间间隔。单位秒。 ... " />
+            <marker date="1506061387000" expanded="true" signature="855:944" ph="/// 如果为真，则onAction再一次按下释放过程只派发一次。如果为假，则每隔duration时间派发一次。 ... " />
+            <marker date="1506061387000" expanded="true" signature="968:1026" ph="/// 手指按住后，移动超出此半径范围则手势停止。 ... " />
+            <marker date="1506061387000" expanded="true" signature="1214:1504" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="1529:1571" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="1605:2166" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="1623:1866" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="1656:1760" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="1769:1861" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="1874:2162" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="1907:2017" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="2026:2124" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="2190:2251" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="2294:2496" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="2526:2913" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="2704:2759" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="2777:2888" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="2954:3062" ph="{...}" />
+            <marker date="1506061387000" expanded="true" signature="3008:3058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FairyGUI/Examples/Gesture/GestureMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="149" column="45" lean-forward="true" selection-start-line="149" selection-start-column="45" selection-end-line="149" selection-end-column="45" />
+          <folding>
+            <marker date="1536744699533" expanded="false" signature="6:34" ph="..." />
+            <marker date="1536744699533" expanded="true" signature="76:3588" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="134:254" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="269:1008" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="1011:1090" ph="/// 移动中触发的事件 ... " />
+            <marker date="1536744699533" expanded="false" signature="1130:1644" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="1310:1444" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="1471:1579" ph="{...}" />
+            <marker date="1536744699533" expanded="false" signature="1647:1728" ph="/// 离开时做一个惯性动画 ... " />
+            <marker date="1536744699533" expanded="false" signature="1767:2477" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="1923:2090" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="2097:2243" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="2246:2319" ph="/* 做一个TO数值过度从V-&gt;0经过0.3秒  ,设置目标对象是地球, 每帧调用 lambda表达式传入一个GTweener对象 ... */" />
+            <marker date="1536744699533" expanded="true" signature="2406:2472" ph="{...}" />
+            <marker date="1536744699533" expanded="false" signature="2480:2557" ph="/// 长按震动效果 ... " />
+            <marker date="1536744699533" expanded="false" signature="2592:2874" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="2731:2869" ph="{...}" />
+            <marker date="1536744699533" expanded="true" signature="2877:2952" ph="/// 缩放事件 ... " />
+            <marker date="1536744699533" expanded="true" signature="2988:3268" ph="{...}" />
+            <marker date="1536744699533" expanded="false" signature="3306:3458" ph="{...}" />
+            <marker date="1536744699533" expanded="false" signature="3497:3586" ph="{...}" />
+            <marker date="1536744699533" expanded="false" signature="3552:3583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
